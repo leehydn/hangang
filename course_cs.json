@@ -1,0 +1,387 @@
+[
+    {
+        "division": 0,
+        "name": "프로그래밍 기초",
+        "number": 36101,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 1,
+        "name": "프로그래밍 실습",
+        "number": 36109,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "이산구조",
+        "number": 36204,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "데이타구조",
+        "number": 36206,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "알고리즘 개론",
+        "number": 36300,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "전산기 조직",
+        "number": 36311,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "프로그래밍 언어",
+        "number": 36320,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "운영체제 및 실험",
+        "number": 36300,
+        "credit": 4,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "전산학 프로젝트",
+        "number": 36408,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "문제해결기법",
+        "number": 36202,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "디지탈시스템 및 실험",
+        "number": 36211,
+        "credit": 4,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "프로그래밍의 이해",
+        "number": 36220,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "시스템프로그래밍",
+        "number": 36230,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "지능로봇 설계 및 프로그래밍",
+        "number": 36270,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "내장형 컴퓨터 시스템",
+        "number": 36310,
+        "credit": 4,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "형식언어 및 오토마타",
+        "number": 36322,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "금융 공학 프로그래밍",
+        "number": 36324,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "네트워크 과학의 융합적 접근",
+        "number": 36340,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산망 개론",
+        "number": 36341,
+        "credit": 4,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "소프트웨어 공학 개론",
+        "number": 36350,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "데이타베이스 개론",
+        "number": 36360,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "화일구조론",
+        "number": 36362,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "심볼릭 프로그래밍",
+        "number": 36370,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "파이썬을 통한 자연언어처리",
+        "number": 36372,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "인간-컴퓨터 상호작용 개론",
+        "number": 36374,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "기계학습",
+        "number": 36376,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "컴퓨터그래픽스개론",
+        "number": 36380,
+        "credit": 4,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산논리학 개론",
+        "number": 36402,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산학을 위한 수학",
+        "number": 36406,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "산학협업 소프트웨어 프로젝트",
+        "number": 36409,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "VLSI설계개론",
+        "number": 36410,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "컴파일러 설계",
+        "number": 36420,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "계산이론",
+        "number": 36422,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "데이타통신",
+        "number": 36440,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "모바일 컴퓨팅과 응용",
+        "number": 36442,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "분산 알고리즘 및 시스템",
+        "number": 36443,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "정보보호개론",
+        "number": 36448,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "IT서비스공학",
+        "number": 36451,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "비즈니스 프로세스 설계 및 관리",
+        "number": 36452,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "소프트웨어 테스팅 자동화 기법",
+        "number": 36453,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "인공지능 기반 소프트웨어 공학",
+        "number": 35454,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "소프트웨어 프로젝트",
+        "number": 35455,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "스마트 환경을 위한 요구공학",
+        "number": 36457,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "서비스 컴퓨팅 개론",
+        "number": 36459,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "인공지능개론",
+        "number": 36470,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "소셜 컴퓨팅 개론",
+        "number": 36473,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "텍스트마이닝",
+        "number": 36474,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "바이오의료응용 집단지성",
+        "number": 36476,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "금융 데이터 분석 기법",
+        "number": 36478,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "대화형 컴퓨터그래픽스",
+        "number": 36482,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "컴퓨터 비전 개론",
+        "number": 36484,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "컴퓨터 윤리와 사회문제",
+        "number": 36489,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산학 특강",
+        "number": 36492,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산학특강I",
+        "number": 36493,
+        "credit": 1,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전산학특강II",
+        "number": 36494,
+        "credit": 2,
+        "prerequisite": []
+    }
+]

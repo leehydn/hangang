@@ -1,0 +1,65 @@
+[
+    {
+        "division": 4,
+        "name": "대학수학",
+        "number": 25100,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 0,
+        "name": "미적분학 I",
+        "number": 25101,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 0,
+        "name": "미적분학 II",
+        "number": 25102,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 0,
+        "name": "고급미적분학 I",
+        "number": 25103,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 0,
+        "name": "고급미적분학 II",
+        "number": 25104,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 1,
+        "name": "선형대수학개론",
+        "number": 25109,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 1,
+        "name": "응용미분방정식",
+        "number": 25201,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 1,
+        "name": "응용해석학",
+        "number": 25202,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 1,
+        "name": "확률 및 통계",
+        "number": 25250,
+        "credit": 3,
+        "prerequisite": []
+    }
+]

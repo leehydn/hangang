@@ -1,0 +1,404 @@
+[
+    {
+        "division": 1,
+        "name": "세상을 바꾸는 전자공학",
+        "number": 35105,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "회로이론",
+        "number": 35201,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "신호 및 시스템",
+        "number": 35202,
+        "credit": 3,
+        "prerequisite": [
+            25101
+        ]
+    },
+    {
+        "division": 2,
+        "name": "전기자기학",
+        "number": 35204,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "전자공학을 위한 프로그래밍 구조",
+        "number": 35209,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 2,
+        "name": "전자설계 및 실험",
+        "number": 35305,
+        "credit": 3,
+        "prerequisite": [
+            35201,
+            35202,
+            35204,
+            35209
+        ]
+    },
+    {
+        "division": 2,
+        "name": "전자 디자인 랩",
+        "number": 35405,
+        "credit": 3,
+        "prerequisite": [
+            35305
+        ]
+    },
+    {
+        "division": 3,
+        "name": "전자공학을 위한 자료구조 및 알고리듬",
+        "number": 35205,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "확률과 기초 확률과정",
+        "number": 35210,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "물리전자개론",
+        "number": 35211,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전자설계실습",
+        "number": 35212,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전자공학을 위한 이산 방법론",
+        "number": 35213,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "디지털시스템",
+        "number": 35303,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전자회로",
+        "number": 35304,
+        "credit": 3,
+        "prerequisite": [
+            35201
+        ]
+    },
+    {
+        "division": 3,
+        "name": "컴퓨터구조개론",
+        "number": 35312,
+        "credit": 3,
+        "prerequisite": [
+            35303
+        ]
+    },
+    {
+        "division": 3,
+        "name": "통신공학",
+        "number": 35321,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "컴퓨터 네트워크",
+        "number": 35323,
+        "credit": 3,
+        "prerequisite": [
+            35209
+        ]
+    },
+    {
+        "division": 3,
+        "name": "네트워크 프로그래밍",
+        "number": 35324,
+        "credit": 3,
+        "prerequisite": [
+            35209,
+            35323
+        ]
+    },
+    {
+        "division": 3,
+        "name": "정보이론 및 부호화 개론",
+        "number": 35326,
+        "credit": 3,
+        "prerequisite": [
+            35210
+        ]
+    },
+    {
+        "division": 3,
+        "name": "기계학습개론",
+        "number": 35331,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전자파 및 안테나",
+        "number": 35341,
+        "credit": 3,
+        "prerequisite": [
+            35204
+        ]
+    },
+    {
+        "division": 3,
+        "name": "무선공학",
+        "number": 35342,
+        "credit": 3,
+        "prerequisite": [
+            35204,
+            35304
+        ]
+    },
+    {
+        "division": 3,
+        "name": "반도체소자",
+        "number": 35362,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "디지털 전자회로",
+        "number": 35372,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "제어시스템공학",
+        "number": 35381,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "전력전자제어",
+        "number": 35391,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "미래사회와 전자공학",
+        "number": 35402,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "아날로그 전자회로",
+        "number": 35403,
+        "credit": 3,
+        "prerequisite": [
+            35201,
+            35304
+        ]
+    },
+    {
+        "division": 3,
+        "name": "스위칭 및 오토마타이론",
+        "number": 35411,
+        "credit": 3,
+        "prerequisite": [
+            35303
+        ]
+    },
+    {
+        "division": 3,
+        "name": "빅데이터 분석개론",
+        "number": 35412,
+        "credit": 3,
+        "prerequisite": [
+            25212,
+            35209,
+            35210
+        ]
+    },
+    {
+        "division": 3,
+        "name": "임베디드 시스템",
+        "number": 35414,
+        "credit": 3,
+        "prerequisite": [
+            35303
+        ]
+    },
+    {
+        "division": 3,
+        "name": "전자공학을 위한 운영체제 및 시스템 프로그래밍",
+        "number": 35415,
+        "credit": 3,
+        "prerequisite": [
+            35209
+        ]
+    },
+    {
+        "division": 3,
+        "name": "통신시스템",
+        "number": 35421,
+        "credit": 3,
+        "prerequisite": [
+            35321
+        ]
+    },
+    {
+        "division": 3,
+        "name": "최적화개론",
+        "number": 35424,
+        "credit": 3,
+        "prerequisite": [
+            25212
+        ]
+    },
+    {
+        "division": 3,
+        "name": "무선 통신망",
+        "number": 35425,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "디지털신호처리",
+        "number": 35432,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "광통신개론",
+        "number": 35441,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "과학기술 기업가 정신",
+        "number": 35450,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "IT 벤처창업의 실제",
+        "number": 35451,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "광공학 개론",
+        "number": 35452,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "반도체 집적회로 기술",
+        "number": 35463,
+        "credit": 3,
+        "prerequisite": [
+            35211,
+            35362
+        ]
+    },
+    {
+        "division": 3,
+        "name": "그린에너지 전자공학",
+        "number": 35464,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "바이오 및 의용 전자공학 개론",
+        "number": 35466,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "멀티미디어개론",
+        "number": 35474,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "시청각 인지 모델",
+        "number": 35476,
+        "credit": 3,
+        "prerequisite": [
+            35202
+        ]
+    },
+    {
+        "division": 3,
+        "name": "지능시스템",
+        "number": 35481,
+        "credit": 3,
+        "prerequisite": [
+            35381
+        ]
+    },
+    {
+        "division": 3,
+        "name": "전자공학특강I",
+        "number": 35485,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전자공학특강II",
+        "number": 35486,
+        "credit": 3,
+        "prerequisite": []
+    },
+    {
+        "division": 3,
+        "name": "전기전자공학특강",
+        "number": 35488,
+        "credit": 3,
+        "prerequisite": []
+    }
+]
