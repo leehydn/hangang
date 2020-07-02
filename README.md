@@ -12,4 +12,4 @@ Hangang, or the Han River is a major river in South Korea and the fourth longest
 
 ### How cold or hot it is now?
 
-[Check it out!](https://github.com/naruei/hangang/blob/master/hangang.ipynb)
+[Check it out!](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fnaruei%2Fhangang/7ba2b17c1bd52cc70af34095fd78fa9805ec3bbc)
