@@ -4,6 +4,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/naruei/hangang)
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/naruei/hangang/master)
 ![GitHub](https://img.shields.io/github/license/naruei/hangang)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Fnaruei%2Fhangang/master)
 
 ### Introduction
 
