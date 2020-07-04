@@ -1,8 +1,12 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-var num = Math.round(1 + Math.random() * 5)
-var url ='../../img/back' + num + '.jpg';
-var back = import(url)
+import back1 from '../../img/back1.jpg';
+import back2 from '../../img/back2.jpg';
+import back3 from '../../img/back3.jpg';
+import back4 from '../../img/back4.jpg';
+import back5 from '../../img/back5.jpg';
+var num = Math.round(Math.random() * 5);
+var backs = [back1, back2, back3, back4, back5];
 
 const Container = styled.div`
   position: absolute;
@@ -16,7 +20,7 @@ const Container = styled.div`
       rgba(20, 20, 20, 0.7) 70%,
       rgba(20, 20, 20, 1)
     ),
-    url(${back});
+    url(${backs[num]});
   background-size: cover;
 `;
 
