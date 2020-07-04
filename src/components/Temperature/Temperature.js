@@ -44,7 +44,7 @@ class Temperature extends Component {
         if(loading) {
             return (
                 <div id="content">
-                    <p id="title">Water Temperature of Hangang</p>
+                    <p id="title">Water temperature of Hangang</p>
                     <br />
                     <br />
                     <p id="subtitle">현재 한강 물의 온도는</p>
@@ -57,7 +57,7 @@ class Temperature extends Component {
         } else {
             return (
                 <div id="content">
-                    <p id="title">Water Temperature of Hangang</p>
+                    <p id="title">Water temperature of Hangang</p>
                     <br />
                     <br />
                     <p id="subtitle">현재 한강 물의 온도는</p>

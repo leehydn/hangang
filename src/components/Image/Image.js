@@ -1,8 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
-var num = Math.round(1 + Math.random() * 5)
-let urls ='../../img/back' + num + '.jpg';
-import back from urls;
+var srcf = '../../img/back' + (1 + Math.round(5 * Math.random())) + '.png';
+import backgroundImage from '../../img/background.jpg';
 
 const Container = styled.div`
   position: absolute;
@@ -16,7 +15,7 @@ const Container = styled.div`
       rgba(20, 20, 20, 0.7) 70%,
       rgba(20, 20, 20, 1)
     ),
-    url(${back});
+    url(${backgroundImage});
   background-size: cover;
 `;
 
