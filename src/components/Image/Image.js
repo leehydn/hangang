@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
 var srcf = '../../img/back' + (1 + Math.round(5 * Math.random())) + '.png';
-import backgroundImage from '../../img/background.jpg';
+backgroundImage = import(srcf);
 
 const Container = styled.div`
   position: absolute;

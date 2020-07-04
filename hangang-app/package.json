@@ -1,6 +1,6 @@
 {
-  "name": "hangang",
   "homepage": "https://hyeondnl.github.io/hangang",
+  "name": "hangang-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
